@@ -7,7 +7,7 @@
 
 ### 📌 A Collaborative Repository for the Major Project of TYAIML Students  
 Under the esteemed guidance of *Prof. T. R. Girase Mam*  
-
+ 
 ---
 
 ## 📜 About the Project  
